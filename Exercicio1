@@ -1,0 +1,19 @@
+humero1 int(input("Digitei o primeir
+
+numero2 = int(input("Digitei o segundo
+
+soma numero1 + numero2
+
+print(soma)
+
+produto numero1 numero2
+
+print(produto)
+
+diferenca = numero1 * numero2
+
+print(diferenca)
+
+quociente = numero1 // numero2
+
+print(quociente)
