@@ -1,0 +1,9 @@
+populacao = int(input("população atual: "))
+taxa = float(input("Taxa de crescimento: ")) / 100
+
+print("Projeção:")
+print("Ano 1:", (populacao * (1 + taxa)))
+print("Ano 2:", (populacao * (1 + taxa) ** 2))
+print("Ano 3:", (populacao * (1 + taxa) ** 3))
+print("Ano 4:", (populacao * (1 + taxa) ** 4))
+print("Ano 5:", (populacao * (1 + taxa) ** 5))
